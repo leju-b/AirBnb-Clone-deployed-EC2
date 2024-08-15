@@ -1,5 +1,3 @@
----
-
 # React Vite App Deployment on EC2 with NGINX
 
 **Author**: Leju B  
